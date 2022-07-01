@@ -2,7 +2,8 @@
 Capitulo 7 y 8
 
 1. OBJETIVOS
-- Aprende a calcular la corriente, voltaje y resistencia de un circuito
+- Obtener conocimientos globales en lo que concierte al Capitulo 7 y 8. De los temas: Circuitos en serie-paralelo y Teoremas de circuitos y conversiones, respectivamente.
+- Identificar, analizar circuitos sei
 - Describir una aproximación básica a la localización de fallas.
 - Definir los términos energía y potencia.
 - Cálcular la potencia en un circuito.
