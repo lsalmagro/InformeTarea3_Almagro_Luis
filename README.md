@@ -2,15 +2,19 @@
 Capitulo 7 y 8
 
 1. OBJETIVOS
+
 - Obtener conocimientos globales en lo que concierte al Capitulo 7 y 8. De los temas: Circuitos en serie-paralelo y Teoremas de circuitos y conversiones, respectivamente.
 - Identificar, analizar y calcular los circuitos en serie - paralelo.
 - Aprender y utilizar el uso de los distintos teoremas de circuitos y/o conversiones.
 
 2. MARCO TEÓRICO (RESUMEN)
+
 ![image](https://user-images.githubusercontent.com/105899463/176982511-470d7cf0-f542-4957-9787-50f1ad663509.png)
+![image](https://user-images.githubusercontent.com/105899463/176984255-e3c8639a-5084-47bb-b64b-4302f2e436f8.png)
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 ![image](https://user-images.githubusercontent.com/105899463/176978866-34af7d9d-bb68-4e89-bb5a-eb002dbed9d8.png)
 ![image](https://user-images.githubusercontent.com/105899463/176978906-b03de31d-86c5-4304-aff1-d583aacfc3f1.png)
 ![image](https://user-images.githubusercontent.com/105899463/176978920-e303e63f-2469-4b4c-aa21-c5d83c5cbde6.png)
@@ -32,19 +36,14 @@ Capitulo 7 y 8
 
 4.VÍDEO
 
-Capitulo 3 - Ley de Ohm
+Circuito Serie - Paralelo
+https://youtu.be/izTmoniT6QU
 
-https://youtu.be/GGB_ZYet5Ao
+Resistencia Total
+https://youtu.be/oppMeUbyDB4
 
-https://youtu.be/eXPaKc_P8aw
-
-Capitulo 4 - Energia y potencia
-
-https://youtu.be/RJmC7Bl39pw
-
-https://youtu.be/9u3PHUxdiOA
-
-
+Teorema de Superposición
+https://youtu.be/DRcRd8Fse_Y
 
 5.CONCLUSIONES
 
