@@ -3,27 +3,32 @@ Capitulo 7 y 8
 
 1. OBJETIVOS
 - Obtener conocimientos globales en lo que concierte al Capitulo 7 y 8. De los temas: Circuitos en serie-paralelo y Teoremas de circuitos y conversiones, respectivamente.
-- Identificar, analizar circuitos sei
-- Describir una aproximación básica a la localización de fallas.
-- Definir los términos energía y potencia.
-- Cálcular la potencia en un circuito.
+- Identificar, analizar y calcular los circuitos en serie - paralelo.
+- Aprender y utilizar el uso de los distintos teoremas de circuitos y/o conversiones.
 
 2. MARCO TEÓRICO (RESUMEN)
-![image](https://user-images.githubusercontent.com/105899463/171969321-b8b25707-33a6-4d31-ae6c-aaf65f4bcc8e.png)
-![image](https://user-images.githubusercontent.com/105899463/171969344-b5e0b004-9250-4e42-8a7f-7c9dd815ca05.png)
+![image](https://user-images.githubusercontent.com/105899463/176980104-e9bfd6d5-8c6a-4b6e-a6eb-7a5d2c71f872.png)
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+![image](https://user-images.githubusercontent.com/105899463/176978866-34af7d9d-bb68-4e89-bb5a-eb002dbed9d8.png)
+![image](https://user-images.githubusercontent.com/105899463/176978906-b03de31d-86c5-4304-aff1-d583aacfc3f1.png)
+![image](https://user-images.githubusercontent.com/105899463/176978920-e303e63f-2469-4b4c-aa21-c5d83c5cbde6.png)
+![image](https://user-images.githubusercontent.com/105899463/176978928-e087ccc8-ef71-4939-b7c0-d7a36866a0f1.png)
+![image](https://user-images.githubusercontent.com/105899463/176978937-97da1a0c-995f-42f4-ad16-1438d7df29f8.png)
+![image](https://user-images.githubusercontent.com/105899463/176978954-f849c5ea-c96d-4086-b0bd-de0c2a46e802.png)
+![image](https://user-images.githubusercontent.com/105899463/176978971-4bbaabea-85ed-412a-84e1-02e7ddc258ed.png)
+![image](https://user-images.githubusercontent.com/105899463/176978984-b8d8acb4-960e-4f60-923c-e0a8001f5878.png)
 
-![image](https://user-images.githubusercontent.com/105899463/171970296-ac785e75-7c9d-4fac-93e2-728910b50438.png)
-![image](https://user-images.githubusercontent.com/105899463/171969455-b538a1ee-467d-456a-99f2-da9dbbbdbe14.png)
-![image](https://user-images.githubusercontent.com/105899463/171969483-332cf15b-5118-4024-8336-6333a873bac8.png)
-![image](https://user-images.githubusercontent.com/105899463/171969541-c922b4f5-7414-4f64-bd53-33ada9899208.png)
-![image](https://user-images.githubusercontent.com/105899463/171969705-f6e969c2-ff3e-4ff8-8c39-5928c93f3569.png)
-![image](https://user-images.githubusercontent.com/105899463/171969863-7d35f592-c62a-49fc-b2e9-7318e657055b.png)
-![image](https://user-images.githubusercontent.com/105899463/171969896-8004d7ff-b095-4d56-a6d6-c4e3d11f833f.png)
-![image](https://user-images.githubusercontent.com/105899463/171969945-3a2471d2-0f1b-40f4-939b-660577e5d3a0.png)
-![image](https://user-images.githubusercontent.com/105899463/171969961-c834e99f-d7df-4da0-b610-9cfe226c33a9.png)
+![image](https://user-images.githubusercontent.com/105899463/176978999-42764f65-eef4-4165-b781-2d3c3f433a36.png)
+![image](https://user-images.githubusercontent.com/105899463/176979014-39cdfe55-36cb-4162-ab0d-b0d235613206.png)
+![image](https://user-images.githubusercontent.com/105899463/176979025-9389cbed-e6d5-4503-a2a9-1223ea2770c4.png)
+![image](https://user-images.githubusercontent.com/105899463/176979051-0e6034c5-b099-467d-bfa3-d8fa6a49206d.png)
+![image](https://user-images.githubusercontent.com/105899463/176979070-28d39c5e-a580-4341-849a-fd4e65ed38a5.png)
+![image](https://user-images.githubusercontent.com/105899463/176979085-7d8e5550-213e-4914-845e-6a661d43d172.png)
+![image](https://user-images.githubusercontent.com/105899463/176979095-f6212a8a-2d92-4a5d-a0e5-a650b0cc9326.png)
+![image](https://user-images.githubusercontent.com/105899463/176979122-c236fd75-293c-4147-b5a3-94c0013fe2b1.png)
+![image](https://user-images.githubusercontent.com/105899463/176979141-6354fe6f-7f7f-462f-af0a-78e97a0c0e44.png)
 
 4.VÍDEO
 
@@ -39,13 +44,12 @@ https://youtu.be/RJmC7Bl39pw
 
 https://youtu.be/9u3PHUxdiOA
 
-https://youtu.be/4E8zQ0fqymE
+
 
 5.CONCLUSIONES
-- Se logró obtener los conocimientos necesarios para calcular la corriente, voltaje y resistencia de un circuito
-- Se puede definir  la respectiva aproximación básica a la localización de fallas.
-- En términos de energía y potencia, se pudo calcular las respectivas magnitudes.
-- Se aprendió a cálcular la potencia en un circuito.
+
+- Se logró obtener los conocimientos necesarios identificar y solucionar problemas de circuitos en serie y paralelo.
+- Se utilizó los teoremas de circuitos y sus respectivas conversiones para solucionar problemas planteados.
 
 6.BIBLIOGRAFIA
 
