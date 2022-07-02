@@ -7,7 +7,7 @@ Capitulo 7 y 8
 - Aprender y utilizar el uso de los distintos teoremas de circuitos y/o conversiones.
 
 2. MARCO TEÓRICO (RESUMEN)
-![image](https://user-images.githubusercontent.com/105899463/176980104-e9bfd6d5-8c6a-4b6e-a6eb-7a5d2c71f872.png)
+![image](https://user-images.githubusercontent.com/105899463/176982511-470d7cf0-f542-4957-9787-50f1ad663509.png)
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
